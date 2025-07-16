@@ -42,7 +42,7 @@ I am a passionate **Full Stack Developer** and **App Developer** with expertise 
 
 ## 📫 Connect with Me
 
-- **GitHub:** [https://github.com/ankit76350](https://github.com/jaarvis007)
+- **GitHub:** [https://github.com/jaarvis007](https://github.com/jaarvis007)
 - **LinkedIn:** [linkdin](https://www.linkedin.com/in/aman-jain-824ba3166)
 
 ⭐ **Feel free to explore my repositories and contribute!**
