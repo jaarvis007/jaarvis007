@@ -96,12 +96,12 @@ I recently completed my **Master of Computer Applications (MCA, 2025)** from **N
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/jaarvis007/" target="blank">
+  <a href="https://leetcode.com/_amn_jain_/" target="blank">
     <img align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png"
       alt="LeetCode" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/jaarvis007" target="blank">
+  <a href="https://codeforces.com/profile/aman637061" target="blank">
     <img align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png"
       alt="Codeforces" height="30" width="30" />
@@ -112,4 +112,4 @@ I recently completed my **Master of Computer Applications (MCA, 2025)** from **N
 ---
 
 
-⭐ **_“Code. Create. Contribute.”_**
+⭐ **_Code. Create. Contribute._**
